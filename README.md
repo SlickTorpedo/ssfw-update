@@ -1,15 +1,16 @@
-# ssfw-update
-This is where all the firmware versions for the Secret Solver calculator lives. Versions live in folders, and latest.bin and version.txt are the latest version and code. Version folders will also contain all the patch &amp; update notes. Critical vulnerability versions will be removed.
-
-# Secret Solver v2.3 - What's New
+# Secret Solver v2.4 - What's New
 
 ## Latest Updates
-- **Automatic Updates**: Your calculator now checks for and installs the latest software improvements automatically when connected to WiFi
-- **Better WiFi Connectivity**: Improved connection reliability and easier network setup
-- **Smoother Chat Experience**: Read longer AI responses with improved page navigation
+- **Enhanced Chat Experience**: Added proper replies functionality for smoother conversations with the AI assistant
+- **Streamlined Launcher**: Removed excess features from the launcher for a cleaner, more intuitive interface
+- **Flexible Updates**: Added ability to manually check and install updates through the settings menu
+- **Improved User Interface**: Centered information menus for better readability and aesthetics
+- **Hardware Compatibility**: Upgraded firmware to work with our new storage chips for enhanced performance
 
 ## All Features
-- **AI Assistant**: Ask questions and get homework help directly on your calculator
+- **AI Assistant**: 
+  - Ask questions and get homework help directly on your calculator
+  - Enjoy proper reply functionality for natural conversations
 - **Easy WiFi Setup**: 
   - Connect to your home network in seconds
   - Your calculator remembers your WiFi password
@@ -22,9 +23,10 @@ This is where all the firmware versions for the Secret Solver calculator lives. 
   - Clear chat history with one button
 
 ## Using Your Secret Solver
-- Compatible with TI-83 and TI-84 calculators
+- Compatible with TI-84 calculators
 - Password protected for your privacy
 - Secure connection to our servers
+- Manual updates available through settings menu
 
 ---
 
