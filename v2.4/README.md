@@ -1,8 +1,11 @@
-# Secret Solver v2.5 - What's New
+# Secret Solver v2.4 - What's New
 
 ## Latest Updates
-- **Security Update**: Added API keys and backup API keys to enahance security
-- **Dropped C3 Support**: This firmware will no longer compatible with Xiao ESP32-C3, only the S3.
+- **Enhanced Chat Experience**: Added proper replies functionality for smoother conversations with the AI assistant
+- **Streamlined Launcher**: Removed excess features from the launcher for a cleaner, more intuitive interface
+- **Flexible Updates**: Added ability to manually check and install updates through the settings menu
+- **Improved User Interface**: Centered information menus for better readability and aesthetics
+- **Hardware Compatibility**: Upgraded firmware to work with our new storage chips for enhanced performance
 
 ## All Features
 - **AI Assistant**: 
