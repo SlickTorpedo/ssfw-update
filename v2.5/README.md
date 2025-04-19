@@ -1,9 +1,8 @@
-# Secret Solver v2.7 BETA - What's New
+# Secret Solver v2.5 - What's New
 
 ## Latest Updates
-- **New Configuration Menu**: Added dedicated configuration option in settings for easier device setup
-- **Security Update**: Added API keys and backup API keys to enhance security
-- **Removed S3 Support**: This firmware will no longer be compatible with Xiao ESP32-S3, only the C3.
+- **Security Update**: Added API keys and backup API keys to enahance security
+- **Dropped C3 Support**: This firmware will no longer compatible with Xiao ESP32-C3, only the S3.
 
 ## All Features
 - **AI Assistant**: 
@@ -19,9 +18,6 @@
   - Chat with AI about any topic
   - Continue conversations with follow-up questions
   - Clear chat history with one button
-- **Configuration Tool**:
-  - Quickly adjust device settings
-  - Streamlined setup process
 
 ## Using Your Secret Solver
 - Compatible with TI-84 calculators
