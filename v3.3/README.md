@@ -1,32 +1,6 @@
-# Secret Solver v3.4 - Emergency Patch Release
+# Secret Solver v3.3 Beta - What's New
 
-## Latest Updates (v3.4 - Emergency Patch)
-- **Critical Manufacturing Defect Fix**: Emergency patch to address hardware manufacturing issues.
-  - **Device Reflash Capability**: Automatic device firmware reflashing to correct manufacturing defects.
-  - **Comprehensive System Recovery**: Complete device restoration for affected units.
-  - **Automated Detection**: System automatically detects and applies necessary fixes during update.
-  - **Zero Data Loss**: Recovery process preserves all user data, settings, and configurations.
-- **Enhanced Security Key Management**: 
-  - **Support Key Regeneration**: Technical support can now regenerate security keys when needed.
-  - **Emergency Key Recovery**: Backup key generation system for critical situations.
-  - **Improved Key Validation**: Enhanced security key verification process.
-  - **Remote Support Capabilities**: Secure remote assistance for key management issues.
-- **System Stability Improvements**:
-  - **Hardware Compatibility Checks**: Automatic validation of device hardware integrity.
-  - **Recovery Mode Enhancements**: Improved emergency recovery procedures.
-  - **Diagnostic Tools**: Enhanced system diagnostics for troubleshooting.
-
----
-
-## Important Notes for v3.4
-- **Automatic Update Required**: This emergency patch will automatically apply when connected to WiFi.
-- **Manufacturing Defect Coverage**: Addresses specific hardware issues from recent production batches.
-- **Support Contact**: If you experience any issues during the update process, contact support immediately.
-- **Backup Recommended**: While the update preserves data, we recommend backing up important notes and settings.
-
----
-
-## Previous Updates (v3.3 Beta - Notes Beta)
+## Latest Updates (v3.3 Beta - Notes Beta)
 - **Notes Integration**: Access and manage your notes directly from your calculator!
   - View your complete notes library with paginated browsing.
   - Read full note content with smooth scrolling interface.
@@ -56,11 +30,6 @@
 ---
 
 ## All Features
-- **Emergency Recovery System**:
-  - Device reflash capability for manufacturing defect correction.
-  - Security key regeneration support for technical assistance.
-  - Comprehensive system recovery with data preservation.
-  - Enhanced diagnostic and troubleshooting tools.
 - **Notes Management**: 
   - Access your complete notes library from your calculator.
   - Read full note content with advanced scrolling capabilities.
@@ -109,7 +78,7 @@
 - Compatible with TI-84 calculators
 - Password protected for your privacy
 - Secure connection to our servers
-- Emergency recovery system for hardware issues
+- Manual updates available through settings menu
 - Community features with privacy controls
 - Advanced scrolling system for optimal readability
 - Notes integration for enhanced productivity
@@ -117,7 +86,6 @@
 
 ---
 
-*Secret Solver v3.4 - Emergency Patch Release*
+*Secret Solver v3.3 Beta - Making Calculators Smarter*
 *Questions? Visit secretsolver.com or join our Discord community*
-*Emergency Support: Contact our support team immediately if you experience issues during the update process*
-*Manufacturing Defect Notice: This update addresses specific hardware issues from recent production batches*
+*Beta Note: This version includes experimental notes features and enhanced scrolling. Report any issues to our support team.*
