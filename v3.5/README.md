@@ -1,22 +1,6 @@
-# Secret Solver v4.0 - App Update (Canary)
+# Secret Solver v3.5 - Firmware Update
 
-> ⚠️ **Canary Release** — This version is available to canary testers only. App access is restricted to the canary channel.
-
-## Latest Updates (v4.0 - App Update)
-- **Secret Solver App** *(Canary Testers Only)*:
-  - Brand new companion app for your Secret Solver device.
-  - Full two-way communication between your calculator and the app.
-  - Available exclusively to canary testers in this release.
-  - Access your AI assistant, chats, and notes directly from your phone.
-- **BLE Communication Protocol**:
-  - Devices now communicate over Bluetooth Low Energy (BLE).
-  - Replaces the previous WiFi hotspot connection method.
-  - Faster, more reliable pairing with the companion app.
-  - Lower power consumption compared to WiFi-based communication.
-
----
-
-## Previous Updates (v3.5 - Firmware Update)
+## Latest Updates (v3.5 - Firmware Update)
 - **Targeted Firmware Versioning**:
   - **Channel-Based Updates**: Devices now receive firmware versions based on their update channel.
   - **Tester Channel**: Beta testers receive new firmware versions ahead of general availability.
@@ -73,18 +57,10 @@
 ---
 
 ## All Features
-- **Secret Solver App** *(Canary Testers Only)*:
-  - Companion app with full two-way communication with your device.
-  - Access AI assistant, chats, and notes from your phone.
-  - Canary-exclusive access during this release phase.
-- **BLE Communication Protocol**:
-  - Bluetooth Low Energy connection between device and app.
-  - Faster and more power-efficient than WiFi hotspot.
-  - Seamless pairing experience.
 - **Targeted Firmware Versioning**:
   - Channel-based update system for testers and regular users.
   - Tester channel receives early access to new firmware builds.
-  - Regular users receive stable releases automatically.
+  - Regular users receive stable releases automatically — no changes to their experience.
 - **Emergency Recovery System**:
   - Device reflash capability for manufacturing defect correction.
   - Security key regeneration support for technical assistance.
@@ -138,8 +114,7 @@
 - Compatible with TI-84 calculators
 - Password protected for your privacy
 - Secure connection to our servers
-- BLE companion app *(canary testers only)*
-- Channel-based firmware updates (canary, closed-alpha, open-beta, and stable channels)
+- Channel-based firmware updates (tester and stable channels)
 - Emergency recovery system for hardware issues
 - Community features with privacy controls
 - Advanced scrolling system for optimal readability
@@ -148,6 +123,6 @@
 
 ---
 
-*Secret Solver v4.0 - App Update (Canary)*
+*Secret Solver v3.5 - Firmware Update*
 *Questions? Visit secretsolver.com or join our Discord community*
-*Canary Access: App features in this release are restricted to canary testers only*
+*Emergency Support: Contact our support team immediately if you experience issues during the update process*
