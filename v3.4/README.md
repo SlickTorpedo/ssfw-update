@@ -1,15 +1,6 @@
-# Secret Solver v3.5 - Firmware Update
+# Secret Solver v3.4 - Emergency Patch Release
 
-## Latest Updates (v3.5 - Firmware Update)
-- **Targeted Firmware Versioning**:
-  - **Channel-Based Updates**: Devices now receive firmware versions based on their update channel.
-  - **Tester Channel**: Beta testers receive new firmware versions ahead of general availability.
-  - **Stable Channel**: Regular users continue to receive stable, fully-tested firmware releases.
-  - **Seamless Experience**: No changes to the update process for regular users — updates apply automatically as before.
-
----
-
-## Previous Updates (v3.4 - Emergency Patch)
+## Latest Updates (v3.4 - Emergency Patch)
 - **Critical Manufacturing Defect Fix**: Emergency patch to address hardware manufacturing issues.
   - **Device Reflash Capability**: Automatic device firmware reflashing to correct manufacturing defects.
   - **Comprehensive System Recovery**: Complete device restoration for affected units.
@@ -24,6 +15,14 @@
   - **Hardware Compatibility Checks**: Automatic validation of device hardware integrity.
   - **Recovery Mode Enhancements**: Improved emergency recovery procedures.
   - **Diagnostic Tools**: Enhanced system diagnostics for troubleshooting.
+
+---
+
+## Important Notes for v3.4
+- **Automatic Update Required**: This emergency patch will automatically apply when connected to WiFi.
+- **Manufacturing Defect Coverage**: Addresses specific hardware issues from recent production batches.
+- **Support Contact**: If you experience any issues during the update process, contact support immediately.
+- **Backup Recommended**: While the update preserves data, we recommend backing up important notes and settings.
 
 ---
 
@@ -57,10 +56,6 @@
 ---
 
 ## All Features
-- **Targeted Firmware Versioning**:
-  - Channel-based update system for testers and regular users.
-  - Tester channel receives early access to new firmware builds.
-  - Regular users receive stable releases automatically — no changes to their experience.
 - **Emergency Recovery System**:
   - Device reflash capability for manufacturing defect correction.
   - Security key regeneration support for technical assistance.
@@ -114,7 +109,6 @@
 - Compatible with TI-84 calculators
 - Password protected for your privacy
 - Secure connection to our servers
-- Channel-based firmware updates (tester and stable channels)
 - Emergency recovery system for hardware issues
 - Community features with privacy controls
 - Advanced scrolling system for optimal readability
@@ -123,6 +117,7 @@
 
 ---
 
-*Secret Solver v3.5 - Firmware Update*
+*Secret Solver v3.4 - Emergency Patch Release*
 *Questions? Visit secretsolver.com or join our Discord community*
 *Emergency Support: Contact our support team immediately if you experience issues during the update process*
+*Manufacturing Defect Notice: This update addresses specific hardware issues from recent production batches*
