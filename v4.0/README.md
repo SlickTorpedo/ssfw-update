@@ -1,15 +1,8 @@
-# Secret Solver v4.1 - Dev Tools Update (Canary)
+# Secret Solver v4.0 - App Update (Canary)
 
 > ⚠️ **Canary Release** — This version is available to canary testers only. App access is restricted to the canary channel.
 
-## Latest Updates (v4.1 - Dev Tools Update)
-  - **Dev Tools**: Control panel for admins to view more information.
-- **Connection Notifications**:
-  - **Real-Time Alerts**: Instant notifications for device connection and disconnection events.
-
----
-
-## Previous Updates (v4.0 - App Update)
+## Latest Updates (v4.0 - App Update)
 - **Secret Solver App** *(Canary Testers Only)*:
   - Brand new companion app for your Secret Solver device.
   - Full two-way communication between your calculator and the app.
@@ -80,9 +73,6 @@
 ---
 
 ## All Features
-- **Developer & Admin Tools** *(New in v4.1)*:
-  - Advanced admin configuration and diagnostics.
-  - Real-time connection/disconnection notifications.
 - **Secret Solver App** *(Canary Testers Only)*:
   - Companion app with full two-way communication with your device.
   - Access AI assistant, chats, and notes from your phone.
@@ -158,6 +148,6 @@
 
 ---
 
-*Secret Solver v4.1 - Dev Tools Update (Canary)*
+*Secret Solver v4.0 - App Update (Canary)*
 *Questions? Visit secretsolver.com or join our Discord community*
 *Canary Access: App features in this release are restricted to canary testers only*
